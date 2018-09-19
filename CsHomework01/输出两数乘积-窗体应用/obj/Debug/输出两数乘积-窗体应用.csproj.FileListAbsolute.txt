@@ -1,0 +1,10 @@
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\bin\Debug\输出两数乘积-窗体应用.exe.config
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\bin\Debug\输出两数乘积-窗体应用.exe
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\bin\Debug\输出两数乘积-窗体应用.pdb
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积-窗体应用.csprojResolveAssemblyReference.cache
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积_窗体应用.Form1.resources
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积_窗体应用.Properties.Resources.resources
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积-窗体应用.csproj.GenerateResource.cache
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积-窗体应用.csproj.CoreCompileInputs.cache
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积-窗体应用.exe
+c:\users\wtg\source\repos\输出两数乘积-窗体应用\输出两数乘积-窗体应用\obj\Debug\输出两数乘积-窗体应用.pdb

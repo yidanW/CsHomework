@@ -1,0 +1,7 @@
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\bin\Debug\CsHomework02.exe.config
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\bin\Debug\CsHomework02.exe
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\bin\Debug\CsHomework02.pdb
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\obj\Debug\CsHomework02.csprojResolveAssemblyReference.cache
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\obj\Debug\CsHomework02.csproj.CoreCompileInputs.cache
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\obj\Debug\CsHomework02.exe
+C:\Users\WTG\source\repos\CsHomework02\CsHomework02\obj\Debug\CsHomework02.pdb
