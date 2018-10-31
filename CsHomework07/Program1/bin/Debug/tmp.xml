@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order xsi:nil="true" />
+  <Order>
+    <List>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>2</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>2</ProductPrice>
+        <Count>1</Count>
+      </OrderDetails>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>23</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>23</ProductPrice>
+        <Count>2312</Count>
+      </OrderDetails>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>3</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>3</ProductPrice>
+        <Count>3</Count>
+      </OrderDetails>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>32</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>32</ProductPrice>
+        <Count>0</Count>
+      </OrderDetails>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>2</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>2</ProductPrice>
+        <Count>32</Count>
+      </OrderDetails>
+      <OrderDetails>
+        <Product>
+          <Name />
+          <Price>2</Price>
+        </Product>
+        <ProductName />
+        <ProductPrice>2</ProductPrice>
+        <Count>0</Count>
+      </OrderDetails>
+    </List>
+    <Client>
+      <Name>aad</Name>
+      <Id>895</Id>
+    </Client>
+    <Id>20181031172752261</Id>
+  </Order>
+</ArrayOfOrder>

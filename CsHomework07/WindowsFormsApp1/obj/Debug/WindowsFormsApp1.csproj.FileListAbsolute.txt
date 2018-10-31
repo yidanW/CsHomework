@@ -1,0 +1,15 @@
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\Program1.exe
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\Program1.pdb
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\bin\Debug\Program1.exe.config
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\Program1.MainForm.resources
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\Program1.OrderDetailsForm.resources
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\WTG\Desktop\Homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
