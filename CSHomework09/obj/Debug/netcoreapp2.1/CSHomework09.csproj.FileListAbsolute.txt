@@ -1,0 +1,11 @@
+/Users/yidan/netcore/CSHomework09/bin/Debug/netcoreapp2.1/CSHomework09.deps.json
+/Users/yidan/netcore/CSHomework09/bin/Debug/netcoreapp2.1/CSHomework09.runtimeconfig.json
+/Users/yidan/netcore/CSHomework09/bin/Debug/netcoreapp2.1/CSHomework09.runtimeconfig.dev.json
+/Users/yidan/netcore/CSHomework09/bin/Debug/netcoreapp2.1/CSHomework09.dll
+/Users/yidan/netcore/CSHomework09/bin/Debug/netcoreapp2.1/CSHomework09.pdb
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.csprojAssemblyReference.cache
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.csproj.CoreCompileInputs.cache
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.AssemblyInfoInputs.cache
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.AssemblyInfo.cs
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.dll
+/Users/yidan/netcore/CSHomework09/obj/Debug/netcoreapp2.1/CSHomework09.pdb
